@@ -18,7 +18,7 @@ Owners of Musiacl Venues could list out their venues for artists and shows organ
 in the form below and then submitting the form, and then the data is sent to the database which is then updated, the data will not sent to the database if any
 of the required information is not filled in.
 
-![alt text](file:///C:/Users/User/Documents/Manasseh/fyyur/static/img/Venueform.png)
+![alt text](https://github.com/jackfros-glitch/udacity-fyyur/blob/master/static/img/Venueform.png)
 
 #### CREATE NEW ARTISTS:
 
@@ -27,7 +27,7 @@ click the submit button to submit his information to the server then the server 
 out properly or some vital informations are not filled out the form will not be submiited when the submit button is been clicked, an alert then pops up on the screen
 informing the user that his details was not successfully uploaded to the database
 
-![alt text](file:///C:/Users/User/Documents/Manasseh/fyyur/static/img/Artistform.png)
+![alt text](https://github.com/jackfros-glitch/udacity-fyyur/blob/master/static/img/img/Artistform.png)
 
 #### CREATE NEW SHOWS:
 
@@ -35,7 +35,7 @@ ShowOrganiser or any one who wants to host a show can go to the post a show, and
 publicized but the form has to be properly filled with the correct data and all required fields has to be filled out or the data will not be stored in the databse
 when submitted, the user is been alerted if the submittion of his/her data was successfully uploaded to the database
 
-![alt text](file:///C:/Users/User/Documents/Manasseh/fyyur/static/img/Showform.png)
+![alt text](https://github.com/jackfros-glitch/udacity-fyyur/blob/master/static/img/Showform.png)
 
 #### SEARCHING FOR NEW VENUES AND ARTISTS:
 
@@ -50,8 +50,8 @@ particular artist or venue will be shown to the user
 
 We want Fyyur to be the next new platform that artists and musical venues can use to find each other, and discover new music shows. Let's make that happen!
 
-![alt text](file:///C:/Users/User/Documents/Manasseh/fyyur/static/img/Learnmore1.png)
-![alt text](file:///C:/Users/User/Documents/Manasseh/fyyur/static/img/Learnmore2.png)
+![alt text](https://github.com/jackfros-glitch/udacity-fyyur/blob/master/static/img/Learnmore1.png)
+![alt text](https://github.com/jackfros-glitch/udacity-fyyur/blob/master/static/img/Learnmore2.png)
 
 ## Tech Stack (Dependencies)
 

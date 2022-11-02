@@ -8,6 +8,8 @@ Fyyur is a musical venue and artist booking site that facilitates the discovery 
 
 ## Overview
 
+Here is a little Overview of what the users can do and what the project looks like
+
 ### FEATURES
 
 #### CREATE NEW VENUES:

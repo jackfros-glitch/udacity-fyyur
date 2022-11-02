@@ -27,7 +27,7 @@ click the submit button to submit his information to the server then the server 
 out properly or some vital informations are not filled out the form will not be submiited when the submit button is been clicked, an alert then pops up on the screen
 informing the user that his details was not successfully uploaded to the database
 
-![alt text](https://github.com/jackfros-glitch/udacity-fyyur/blob/master/static/img/img/Artistform.png)
+![alt text](https://github.com/jackfros-glitch/udacity-fyyur/blob/master/static/img/Artistform.png)
 
 #### CREATE NEW SHOWS:
 

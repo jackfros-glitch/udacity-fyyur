@@ -36,6 +36,7 @@ migrate = Migrate(app, db)
 # Models.
 #----------------------------------------------------------------------------#
 
+# TODO: remove the Area model
 class Area(db.Model):
   __tablename__ = 'Area'
   id = db.Column(db.Integer, primary_key=True)
@@ -154,6 +155,8 @@ def venues():
   # TODO: replace with real venues data.
   #       num_upcoming_shows should be aggregated based on number of upcoming shows per venue.
 
+  # TODO: improve the code for better query optimization
+  #       remove the logic for Area model in this route
   venues = Venue.query.order_by(Venue.city.desc()).all() #Venue.id
   venues_grouped = db.session.query(Venue.city).group_by(Venue.city)
   areas = Area.query.all()

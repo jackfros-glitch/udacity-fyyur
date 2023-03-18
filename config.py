@@ -10,5 +10,5 @@ DEBUG = False
 
 
 # TODO IMPLEMENT DATABASE URL
-SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:manasseh@localhost:5432/fyyurapp'
+SQLALCHEMY_DATABASE_URI = 'postgresql://jackfros:kAZt3AnRHa7S0dPpZw7zEXdSoeQPZg1Qh@dpg-cgb0ppt269v4icoivk4g-a:5432/fyyur_app_db'
 SQLALCHEMY_TRACK_MODIFICATIONS = True
